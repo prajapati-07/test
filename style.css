@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+a{
+    color: #000;
+    font-weight: 550;
+    text-decoration: none;
+}
+header{
+    height: 60px;
+    background-color: #806BDC;
+    text-align: center;
+}
+.navbar{
+    padding-top: 18px;
+}
+#navbar-title{
+    color: rgb(252, 249, 249);
+    font-size: 30px;
+}
+.items{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#item-table{
+    width: 100%;
+    text-align: center;
+}
+.item-img{
+    height: 120px;
+}
+.item-tag{
+    font-size: 14px;
+}
+.item-img:hover{
+    color: #806BDC;
+}
+#shopping-time-img{
+    margin-top:30px;
+    width:100vw;
+    height: 30vw;
+}
+.sales-table{
+    width: 90vw;
+    margin: auto;
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 12px;
+}
+.sales-table-head{
+    background-color: #806BDC;
+}
+.Information{
+    width: 92vw;
+    margin: 20px;
+    font-size: 11px;
+    color: #878787;
+    list-style-position: inside;
+}
+footer{
+    height: 50px;
+    padding-top:28px ;
+    background-color:black;
+    color: white;
+    text-align: center;
+}
